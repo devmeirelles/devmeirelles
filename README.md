@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">• About Me:<br>____________________________________________________________________________________________</h2>
+<h2 align="left">• About Me:<br>___________________________________________________________________________________</h2>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="left">• Tech Stack :<br>____________________________________________________________________________________________</h2>
+<h2 align="left">• Tech Stack :<br>___________________________________________________________________________________</h2>
 
 ###
 
@@ -52,7 +52,7 @@
 
 ###
 
-<h2 align="left">• Social Media:<br>____________________________________________________________________________________________</h2>
+<h2 align="left">• Social Media:<br>___________________________________________________________________________________</h2>
 
 ###
 
@@ -70,7 +70,7 @@
 
 ###
 
-<h2 align="left">• Some Stats:<br>____________________________________________________________________________________________</h2>
+<h2 align="left">• Some Stats:<br>___________________________________________________________________________________</h2>
 
 ###
 
@@ -86,7 +86,7 @@
 <br clear="both">
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devmeirelles/devmeirelles/output/gitbuh-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devmeirelles/devmeirelles/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devmeirelles/devmeirelles/output/github-snake.svg" />
     <img src="https://raw.githubusercontent.com/devmeirelles/devmeirelles/output/snake.svg" alt="Snake animation" />
 </picture>
