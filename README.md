@@ -75,16 +75,20 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevMeirelles&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true&order=1&custom_title=Algumas%20estat%C3%ADsticas%20%F0%9F%93%B6" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevMeirelles&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&custom_title=Com%20o%20que%20mais%20trabalho%20%F0%9F%92%BB" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=DevMeirelles&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=DevMeirelles&theme=dracula&column=-1&row=1&margin-w=8&margin-h=0&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=devmeirelles&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true&order=1&custom_title=Algumas%20estat%C3%ADsticas%20%F0%9F%93%B6" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devmeirelles&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&custom_title=Com%20o%20que%20mais%20trabalho%20%F0%9F%92%BB" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=devmeirelles&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=devmeirelles&theme=dracula&column=-1&row=1&margin-w=8&margin-h=0&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/DevMeirelles/DevMeirelles/output/snake.svg" alt="Snake animation" />
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devmeirelles/devmeirelles/output/gitbuh-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devmeirelles/devmeirelles/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/devmeirelles/devmeirelles/output/snake.svg" alt="Snake animation" />
+</picture>
 
 ###
