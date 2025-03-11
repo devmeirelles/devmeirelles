@@ -1,3 +1,7 @@
+<img src="git-banner.png" alt="GitHub Banner" width="100%" />
+
+###
+
 <h1 align="left">Opa 👋! Meirelles Aqui!</h1>
 
 ###
@@ -10,7 +14,7 @@
 
 ###
 
-<h2 align="left">• About Me:<br>___________________________________________________________________________________</h2>
+<h2 align="left">• About Me:</h2>
 
 ###
 
@@ -18,7 +22,7 @@
 
 ###
 
-<h2 align="left">• Tech Stack :<br>___________________________________________________________________________________</h2>
+<h2 align="left">• Tech Stack :</h2>
 
 ###
 
@@ -52,7 +56,7 @@
 
 ###
 
-<h2 align="left">• Social Media:<br>___________________________________________________________________________________</h2>
+<h2 align="left">• Social Media:</h2>
 
 ###
 
@@ -70,15 +74,15 @@
 
 ###
 
-<h2 align="left">• Some Stats:<br>___________________________________________________________________________________</h2>
+<h2 align="left">• Some Stats:</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devmeirelles&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true&order=1&custom_title=Algumas%20estat%C3%ADsticas%20%F0%9F%93%B6" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devmeirelles&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&custom_title=Com%20o%20que%20mais%20trabalho%20%F0%9F%92%BB" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=devmeirelles&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=devmeirelles&theme=dracula&column=-1&row=1&margin-w=8&margin-h=0&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=DevMeirelles&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=pt-br&hide_border=true&order=1&custom_title=Algumas%20estat%C3%ADsticas%20%F0%9F%93%B6" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevMeirelles&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true&order=2&custom_title=Com%20o%20que%20mais%20trabalho%20%F0%9F%92%BB" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=DevMeirelles&locale=en&mode=daily&theme=gotham&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevMeirelles&radius=16&theme=gotham&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
